@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TailNode-Frontend-Assignment/static/css/main.5b7de340.css",
+    "main.js": "/TailNode-Frontend-Assignment/static/js/main.757b1749.js",
+    "index.html": "/TailNode-Frontend-Assignment/index.html",
+    "main.5b7de340.css.map": "/TailNode-Frontend-Assignment/static/css/main.5b7de340.css.map",
+    "main.757b1749.js.map": "/TailNode-Frontend-Assignment/static/js/main.757b1749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7de340.css",
+    "static/js/main.757b1749.js"
+  ]
+}
