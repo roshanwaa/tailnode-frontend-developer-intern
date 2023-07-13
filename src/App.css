@@ -1,0 +1,11 @@
+.container {
+  @apply mx-auto max-w-md;
+}
+
+input[type="text"] {
+  @apply w-full p-2 rounded border;
+}
+
+button {
+  @apply px-4 py-2 mt-4 bg-red-500 text-white rounded;
+}
