@@ -1,7 +1,7 @@
 {
   "name": "tailnode-frontend-developer-intern",
   "version": "0.1.0",
-  "homepage": "https://roshanwaa.github.io/TailNode-Frontend-Assignment/",
+  "homepage": "https://roshanwaa.github.io/TailNode-Frontend-Assignment",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
