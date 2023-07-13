@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailnode-frontend-developer-intern/static/css/main.5b7de340.css",
+    "main.js": "/tailnode-frontend-developer-intern/static/js/main.757b1749.js",
+    "index.html": "/tailnode-frontend-developer-intern/index.html",
+    "main.5b7de340.css.map": "/tailnode-frontend-developer-intern/static/css/main.5b7de340.css.map",
+    "main.757b1749.js.map": "/tailnode-frontend-developer-intern/static/js/main.757b1749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7de340.css",
+    "static/js/main.757b1749.js"
+  ]
+}
